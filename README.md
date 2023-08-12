@@ -33,7 +33,7 @@ This repository is part of the data structure and algorithms (#EDA) teaching fra
 The students edit this section to add their names, Uniandes emails, and specify which project functionality of the project they will implement.
 
 1. Student No. 1 Jimmy Alexander Ceron, Student No. 1 ja.ceronm1@uniandes.edu.co, Student No. 1 owned functionality.
-1. Student No. 2 Andres MateoJurado, Student No. 2 a.jurado@uniandes.edu.co, Student No. 2 owned functionality.
+1. Student No. 2 Andres Mateo Jurado, Student No. 2 a.jurado@uniandes.edu.co, Student No. 2 owned functionality.
 1. Student No. 3 Juan David Santana, Student No. 3 jd.santana40@uniandes.edu.co  , Student No. 3 owned functionality.
 
 [Back to top](#sample-mvc)
